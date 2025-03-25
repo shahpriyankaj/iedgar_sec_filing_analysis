@@ -3,6 +3,7 @@
 ### Project Structure
 1. <b>edgar_kmeans.ipynb</b>: Task 1: Engineering
 2. <b>edgar_genai.ipynb</b>: Task 2: GenAI
+3. <b>plots/</b>: Plots from Task 1
 
 ### Usage/Reproducability
 1. Clone the Repository
