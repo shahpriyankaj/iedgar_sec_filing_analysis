@@ -1,0 +1,12 @@
+datasets
+findspark
+numpy
+pandas
+pyspark==3.4.4
+scikit-learn
+seaborn
+sentence-transformers
+llama-cpp-python
+huggingface-hub>=0.17.1
+langchain
+rouge_score
